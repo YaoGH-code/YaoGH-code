@@ -13,6 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaogh-code&show_icons=true&locale=en" alt="yaogh-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaogh-code&" alt="yaogh-code" /></p>
 
 
